@@ -1,8 +1,9 @@
 ### Yo its Devesh 👋
 
-I'm 19 yrs old and I enjoy coding. I am pursuing Btech CSE in IIT Goa currently. I aspire to become one of the best in the field of technology. I learned python fist when i was 16 in my school. I enjoyed using python and liked logical based problems the most. Ever since then I had a keen interest on coding and also learned c/C++. Even though I am a beginner... I wish to have a fun and exciting journey.
-******
-
+- 🎓19-year-old B.Tech CSE student at IIT Goa with a passion for coding and technology.
+-💻Introduced to Python at 16, developed a penchant for logical problem-solving.
+-🚀Aspiring to excel in the technology industry through continuous learning and dedication.
+-🌟Skilled in Python and C/C++, eager to embark on a rewarding journey of growth and innovation.
 - 🔭 I’m currently working on my coding skills.
 - 🌱 I’m currently learning algorithms.
 - 👯 I’m looking to collaborate on projects based on pyhton and ml.
