@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning algorithms.
 - 👯 I’m looking forward to attain real world coding experiences and to collaborate on projects based on pyhton and ml.
 - 📫 How to reach me: saidevesh@gmail.com
-- ⚡ Fun fact: I don't bite.
+- ⚡ Fun fact: I don't bite and I believe I can reach super saiyan.
