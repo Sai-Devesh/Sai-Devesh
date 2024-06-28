@@ -6,6 +6,6 @@
 - 🌟 Skilled in Python and C/C++, eager to embark on a rewarding journey of growth and innovation.
 - 🔭 I’m currently working on my coding skills.
 - 🌱 I’m currently learning algorithms.
-- 👯 I’m looking forward to attain real world coding experiences and to collaborate on projects based on pyhton and ml.
+- 👯 I’m looking forward to attain real world coding experiences and to collaborate on projects based on algorithm designs, ai and ml.
 - 📫 How to reach me: saidevesh@gmail.com
 - ⚡ Fun fact: I believe I can reach super saiyan.
