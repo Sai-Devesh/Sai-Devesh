@@ -1,6 +1,6 @@
 ### Yo its Devesh 👋
 
-- 🎓 19-year-old B.Tech CSE student at IIT Goa with a passion for coding and technology.
+- 🎓 20-year-old B.Tech CSE student at IIT Goa with a passion for coding and technology.
 - 💻 Introduced to Python at 16, developed a fondness for logical problem-solving.
 - 🚀 Aspiring to excel in the technology industry through continuous learning and dedication.
 - 🌟 Skilled in Python and C/C++, eager to embark on a rewarding journey of growth and innovation.
